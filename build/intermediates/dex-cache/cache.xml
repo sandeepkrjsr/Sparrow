@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\724b36998de9aca984f1a96d87478504d145ab2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_5da241fcb36c05277aa92fa2603e7c6defc55d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\3c89dc300e1d2adf4eb9648de7869703862b1ec8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_35440245f39a38c06f13f286a1b9c9d3fe734310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\9c3e8f8b966f35769d19ea22c8b2bc4a99957cca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_04374eeaaa056e381d9bc20447a29f42585b6d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\c4909f22e8969af02b027969d5c09a5970136889\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_8b0d104ce0c78b6abce8c80965aa73ab70efeca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\33dec9b0fd3a33a231db772f618aa37aa29bc85b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_d2339ba65863b2788c7fbc05b550bd48a12118b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\75575cd68023ea0230d9451b8d9dd00517425c84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_b1832a26d765544e42c426cbc900826f763a2a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\4040a63a7603817ae8c04afbc37198fb1deb325d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_6e5a38480e157fdb95fbedc641960c9494a1e07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\9f1c49b4ac9d483c348e1fcc6d0382a1a0eea425\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_c0a92673895ec32c5882b7832828b171e8a210a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\4ca1a1f1756739b5669930a916195fddd6ae2e1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_d9a3ba5c0f43309f9e39042fc16ea61077a3d70b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\c71800fa676962749290613ee7b55648e7485900\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_42c10fade1f6890bf6b6ebb1ad1fadc9a7471a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\68c6b131e220019fd81e5b66f292ef00ed16583e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_a0626e341d4153dea0d230e22b145fc18933b284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\c982392e04622e3aa8625ef72f2fcc4fa90a0894\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_56630d8f23e1f4beaf76f7061e3025b578379a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kiit1\.android\build-cache\26235c479789110b37263d026284bdc168f54c77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\MyProject\Sparrow\app\build\intermediates\pre-dexed\debug\classes_4cec8845587e4a927d1d4554971318fecd18626c.jar" />
+    </item>
+
+</items>
