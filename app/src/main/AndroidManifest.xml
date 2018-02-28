@@ -36,10 +36,6 @@
             </intent-filter>
         </service>
 
-        <activity android:name=".ReferralActivity" />
-        <activity
-            android:name=".SignInActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".AppTeamActivity"></activity>
     </application>
 
